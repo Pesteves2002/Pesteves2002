@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás 😎</h1>
 <h3 align="center"> 🎓 Studying Computer Science at Instituto Superior Técnico </h3>
 
-<h3 align="center">🏃 Federate Athelete at NucleOeiras </h3>
+<h3 align="center">🏃 Federate Athlete at NucleOeiras </h3>
 <p align="left">
 </p>
 
